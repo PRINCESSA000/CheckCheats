@@ -16,5 +16,10 @@ namespace CheckCheats
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("ты павиан");
+        }
     }
 }
